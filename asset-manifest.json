@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Food-Website/static/css/main.d04ece56.css",
+    "main.js": "/Food-Website/static/js/main.e5d7aa22.js",
+    "static/js/453.fcbfcfec.chunk.js": "/Food-Website/static/js/453.fcbfcfec.chunk.js",
+    "static/media/food.jpg": "/Food-Website/static/media/food.9c257b674d23b5d5d914.jpg",
+    "static/media/masala.jpg": "/Food-Website/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/chhola.jpg": "/Food-Website/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/logo.svg": "/Food-Website/static/media/logo.6fc22e5fbdec6b9338921613bddec0dd.svg",
+    "static/media/paneer.jpg": "/Food-Website/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/Food-Website/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/Food-Website/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/Food-Website/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/Food-Website/index.html",
+    "main.d04ece56.css.map": "/Food-Website/static/css/main.d04ece56.css.map",
+    "main.e5d7aa22.js.map": "/Food-Website/static/js/main.e5d7aa22.js.map",
+    "453.fcbfcfec.chunk.js.map": "/Food-Website/static/js/453.fcbfcfec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d04ece56.css",
+    "static/js/main.e5d7aa22.js"
+  ]
+}
